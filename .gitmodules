@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "immunarch"]
+	path = immunarch
+	url = https://github.com/immunomind/immunarch
+	shallow = true
+	registered = true
