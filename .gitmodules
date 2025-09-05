@@ -5,3 +5,6 @@
 [submodule "immunarch"]
 	path = immunarch
 	url = https://github.com/immunomind/immunarch
+[submodule "immundata"]
+	path = immundata
+	url = https://github.com/immunomind/immundata
