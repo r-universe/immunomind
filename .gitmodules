@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "duckplyr"]
-	path = duckplyr
-	url = https://github.com/tidyverse/duckplyr
-	registered = false
 [submodule "immunarch"]
 	path = immunarch
 	url = https://github.com/immunomind/immunarch
